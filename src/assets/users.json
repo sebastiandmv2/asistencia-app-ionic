@@ -29,10 +29,10 @@
           "tipo": "profesor"
        },
        {
-          "nombre": "Walcoldo Miranda",
-          "usr": "waco.mira",
+          "nombre": "Diego Cares",
+          "usr": "d.caresg",
           "password": 1234,
-          "email": "waco.miranda@profesorduoc.cl",
+          "email": "d.caresg@profesorduoc.cl",
           "tipo": "profesor"
        }
     ]
