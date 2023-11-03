@@ -1,0 +1,39 @@
+{
+    "usuarios": [
+       {
+          "nombre": "Nicolas Silva",
+          "usr": "nicol.silvan",
+          "password": 1234,
+          "email": "nicol.silvan@duocuc.cl",
+          "tipo": "alumno"
+       },
+       {
+          "nombre": "Sebastian Millar",
+          "usr": "se.millar",
+          "password": "1234",
+          "email": "se.millar@duocuc.cl",
+          "tipo": "alumno"
+       },
+       {
+          "nombre": "Constanza Flores",
+          "usr": "con.floresc",
+          "password": 1234,
+          "email": "con.floresc@duocuc.cl",
+          "tipo": "alumno"
+       },
+       {
+          "nombre": "Profesor Rosa",
+          "usr": "profesor",
+          "password": 1234,
+          "email": "profesor@profesorduoc.cl",
+          "tipo": "profesor"
+       },
+       {
+          "nombre": "Walcoldo Miranda",
+          "usr": "waco.mira",
+          "password": 1234,
+          "email": "waco.miranda@profesorduoc.cl",
+          "tipo": "profesor"
+       }
+    ]
+ }
